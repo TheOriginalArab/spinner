@@ -1,3 +1,5 @@
+let delay = 100;
+
 setTimeout(() => {
   process.stdout.write("\r|   ");
 }, delay);
